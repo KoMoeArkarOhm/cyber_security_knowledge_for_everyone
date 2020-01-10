@@ -17,3 +17,14 @@
 ပုံကတော့ ss saveပြီးတင်တာကို မရ မရဖြစ်နေတာနဲ့ မတင်တော့ပါဘူး
 
 ### [link to Download Book!](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwj-1cHtrvnmAhUV7nMBHXntBFcQFjACegQIAxAC&url=https%3A%2F%2Frepo.zenk-security.com%2FTechniques%2520d.attaques%2520%2520.%2520%2520Failles%2FThe%2520Art%2520of%2520Software%2520Security%2520Assessment%2520-%2520Identifying%2520and%2520Preventing%2520Software%2520Vulnerabilities.pdf&usg=AOvVaw39EAI1KeqgPV-Ku2TPFtPI)
+
+## Certification များ
+- OSCP ( Offensive Security Certified Professional )
+- OSCE ( Offensive Security Certified Expert)
+- GPEN ( GIAC Penetration Tester )
+- GPEX ( GIAC Exploit Researcher and Advanced Penetration Tester )
+
+## Resources များ
+- http://www.opensecuritytraining.info/Exploits2.html
+- http://www.opensecuritytraining.info/Exploits1.html
+- http://www.opensecuritytraining.info/IntermediateX86.html
