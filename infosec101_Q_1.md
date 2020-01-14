@@ -26,3 +26,5 @@ What sort of vulnerability is this?
 - Design flaw icon Design flaw
 - Implementation flaw icon Implementation flaw
 - Operation flaw icon Operation flaw 
+
+[after choosing answers you can check the right answers with your answers.Here!!!!](https://github.com/KoMoeArkarOhm/cyber_security_knowledge_for_everyone/blob/master/infosec101_Q_1_Answers.md)
